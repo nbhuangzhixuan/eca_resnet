@@ -1,2 +1,2 @@
 # eca_resnet
-use eca attention block in resnext
+use eca attention block in resnet
